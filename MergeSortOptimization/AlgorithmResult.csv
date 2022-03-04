@@ -1,0 +1,65 @@
+Number of elements,1000000
+Standard Merge Sort,1.404
+Parallel Invoke Merge Sort,1.81
+Task  Merge Sort,0.511
+Cache optimized  Merge Sort,0.629
+Parallel Invoke Cache optimized Merge Sort,0.392
+Standard QuickSort,0.92
+ParallelInvoke QuickSort,0.57
+Task QuickSort,0.507
+DualPivot QuickSort,0.39
+ParallelInvoke DualPivot QuickSort,0.257
+ , 
+ , 
+Number of elements,3000000
+Standard Merge Sort,1.745
+Parallel Invoke Merge Sort,0.704
+Task  Merge Sort,0.705
+Cache optimized  Merge Sort,1.677
+Parallel Invoke Cache optimized Merge Sort,1.018
+Standard QuickSort,1.563
+ParallelInvoke QuickSort,1.36
+Task QuickSort,0.999
+DualPivot QuickSort,1.391
+ParallelInvoke DualPivot QuickSort,0.801
+ , 
+ , 
+Number of elements,5000000
+Standard Merge Sort,3.135
+Parallel Invoke Merge Sort,1.621
+Task  Merge Sort,1.665
+Cache optimized  Merge Sort,2.162
+Parallel Invoke Cache optimized Merge Sort,1.033
+Standard QuickSort,2.014
+ParallelInvoke QuickSort,1.522
+Task QuickSort,1.538
+DualPivot QuickSort,1.624
+ParallelInvoke DualPivot QuickSort,1.009
+ , 
+ , 
+Number of elements,10000000
+Standard Merge Sort,5.887
+Parallel Invoke Merge Sort,2.548
+Task  Merge Sort,2.531
+Cache optimized  Merge Sort,4.722
+Parallel Invoke Cache optimized Merge Sort,2.158
+Standard QuickSort,4.314
+ParallelInvoke QuickSort,3.428
+Task QuickSort,3.452
+DualPivot QuickSort,3.383
+ParallelInvoke DualPivot QuickSort,3.147
+ , 
+ , 
+Number of elements,30000000
+Standard Merge Sort,19.217
+Parallel Invoke Merge Sort,8.87
+Task  Merge Sort,10.663
+Cache optimized  Merge Sort,14.388
+Parallel Invoke Cache optimized Merge Sort,9.143
+Standard QuickSort,13.189
+ParallelInvoke QuickSort,10.782
+Task QuickSort,10.795
+DualPivot QuickSort,10.679
+ParallelInvoke DualPivot QuickSort,7.777
+ , 
+ , 

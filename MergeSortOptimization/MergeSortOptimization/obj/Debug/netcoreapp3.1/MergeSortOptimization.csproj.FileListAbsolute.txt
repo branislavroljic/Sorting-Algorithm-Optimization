@@ -1,0 +1,13 @@
+F:\Arhitektura racunara projekti\MergeSort_Optimization\MergeSortOptimization\MergeSortOptimization\obj\Debug\netcoreapp3.1\MergeSortOptimization.csprojAssemblyReference.cache
+F:\Arhitektura racunara projekti\MergeSort_Optimization\MergeSortOptimization\MergeSortOptimization\obj\Debug\netcoreapp3.1\MergeSortOptimization.AssemblyInfoInputs.cache
+F:\Arhitektura racunara projekti\MergeSort_Optimization\MergeSortOptimization\MergeSortOptimization\obj\Debug\netcoreapp3.1\MergeSortOptimization.AssemblyInfo.cs
+F:\Arhitektura racunara projekti\MergeSort_Optimization\MergeSortOptimization\MergeSortOptimization\obj\Debug\netcoreapp3.1\MergeSortOptimization.csproj.CoreCompileInputs.cache
+F:\Arhitektura racunara projekti\MergeSort_Optimization\MergeSortOptimization\MergeSortOptimization\bin\Debug\netcoreapp3.1\MergeSortOptimization.exe
+F:\Arhitektura racunara projekti\MergeSort_Optimization\MergeSortOptimization\MergeSortOptimization\bin\Debug\netcoreapp3.1\MergeSortOptimization.deps.json
+F:\Arhitektura racunara projekti\MergeSort_Optimization\MergeSortOptimization\MergeSortOptimization\bin\Debug\netcoreapp3.1\MergeSortOptimization.runtimeconfig.json
+F:\Arhitektura racunara projekti\MergeSort_Optimization\MergeSortOptimization\MergeSortOptimization\bin\Debug\netcoreapp3.1\MergeSortOptimization.runtimeconfig.dev.json
+F:\Arhitektura racunara projekti\MergeSort_Optimization\MergeSortOptimization\MergeSortOptimization\bin\Debug\netcoreapp3.1\MergeSortOptimization.dll
+F:\Arhitektura racunara projekti\MergeSort_Optimization\MergeSortOptimization\MergeSortOptimization\bin\Debug\netcoreapp3.1\MergeSortOptimization.pdb
+F:\Arhitektura racunara projekti\MergeSort_Optimization\MergeSortOptimization\MergeSortOptimization\obj\Debug\netcoreapp3.1\MergeSortOptimization.dll
+F:\Arhitektura racunara projekti\MergeSort_Optimization\MergeSortOptimization\MergeSortOptimization\obj\Debug\netcoreapp3.1\MergeSortOptimization.pdb
+F:\Arhitektura racunara projekti\MergeSort_Optimization\MergeSortOptimization\MergeSortOptimization\obj\Debug\netcoreapp3.1\MergeSortOptimization.genruntimeconfig.cache
